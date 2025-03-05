@@ -2,3 +2,4 @@ fastapi
 flask
 gunicorn
 uvicorn
+psycopg2
